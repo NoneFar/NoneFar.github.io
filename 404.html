@@ -409,23 +409,6 @@
 
   
 
-  function showGitment() {
-      $("#gitment_title").attr("style", "display:none");
-      $("#container").attr("style", "").addClass("gitment_container");
-      var gitment = new Gitment({
-        id: window.location.pathname,
-        theme: myTheme,
-        owner: '',
-        repo: '',
-        oauth: {
-          client_id: '766888ff27047bedeeaa',
-          client_secret: '4fc7db4824b01b926fc4716a1ec46d9cdd14671b'
-        }
-      });
-      gitment.render('container');
-    }
-    </script>
-
 
 
 
