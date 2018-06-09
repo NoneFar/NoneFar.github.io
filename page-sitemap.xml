@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>http://eptyee.github.io/about/</loc>
+        <lastmod>2018-06-09T06:31:09.410Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://eptyee.github.io/tags/</loc>
         <lastmod>2018-06-08T02:50:26.245Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,13 +23,6 @@
     <url>
         <loc>http://eptyee.github.io/categories/</loc>
         <lastmod>2018-06-08T02:49:19.995Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://eptyee.github.io/about/</loc>
-        <lastmod>2018-06-08T02:28:38.209Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
