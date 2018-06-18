@@ -8,7 +8,23 @@
 
     <url>
         <loc>http://eptyee.github.io/2018/06/14/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</loc>
-        <lastmod>2018-06-14T15:52:56.693Z</lastmod>
+        <lastmod>2018-06-18T13:11:28.954Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://eptyee.github.io/2018/06/18/%E4%B8%8E%E7%BA%A6%C2%B7%E6%97%A0%E9%A2%98/</loc>
+        <lastmod>2018-06-18T13:05:57.521Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://eptyee.github.io/2018/06/18/%E8%81%94/</loc>
+        <lastmod>2018-06-18T11:40:17.700Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -33,14 +49,6 @@
     <url>
         <loc>http://eptyee.github.io/2018/06/09/%E5%BD%92%E5%8C%BF%E5%BC%95/</loc>
         <lastmod>2018-06-09T06:33:42.948Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://eptyee.github.io/2018/06/09/%E8%81%94/</loc>
-        <lastmod>2018-06-09T06:25:21.965Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
